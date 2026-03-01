@@ -1,4 +1,3 @@
-
 """Utility helpers for TF-IDF-based exploration."""
 from __future__ import annotations
 
